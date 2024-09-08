@@ -1,2 +1,2 @@
 # Webscrape
-Scraping IMDB Top Bolloywood Movies using Beautiful Soup
+Scraping IMDB Top Bollywood Movies using Beautiful Soup
